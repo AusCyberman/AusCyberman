@@ -9,7 +9,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="java" width="26px" src="https://lh3.googleusercontent.com/proxy/DAxCydZXe3tRa5Va8X8H9wH0GsJGAF0AtQ3q9IamCxEj73EbCurTNrWHXLWHqS1k9RK20irH-OwX0v4RtbMYX44xiViXA2m_OlBvCIweOl8olMgDHmo" />
+<img align="left" alt="java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 <br />
 
