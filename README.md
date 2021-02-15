@@ -1,5 +1,6 @@
 ### Hi there, I'm AusCyber
-
+I just like doing a bit of programming. I feel like okay I'm at haskell. 
+My developer skills as a whole are pretty bad, I barely know how to use git
 ### Connect with me:
 
 [<img align="left" alt="AusCyber | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
