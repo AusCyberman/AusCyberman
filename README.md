@@ -1,5 +1,5 @@
 ### Hi there, I'm AusCyber
-I just like doing a bit of programming. I feel like okay I'm at haskell. 
+I just like doing a bit of programming. I feel like okay I'm at haskell. </br>
 My developer skills as a whole are pretty bad, I barely know how to use git
 ### Connect with me:
 
