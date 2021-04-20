@@ -22,7 +22,7 @@ My developer skills as a whole are pretty bad, I barely know how to use git
 ---
 
 
-<img align="left" alt="auscybermans's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=auscyberman&show_icons=true&hide_border=true?theme=radical" />
+<img align="left" alt="auscybermans's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=auscyberman&show_icons=true&hide_border=true&theme=radical" />
 
 [twitter]: https://twitter.com/phoebeebridgers
 [steam]: https://steamcommunity.com/id/AusCyber/
