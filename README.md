@@ -3,7 +3,6 @@ I'm a high school student and i do a bit of programming </br>
 My developer skills as a whole are pretty bad, I barely know how to use git
 ### Connect with me:
 
-[<img align="left" alt="AusCyber | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="AusCyber | Steam" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/steam-2288551-1933796.png" />][steam]
 <br />
 
