@@ -17,11 +17,14 @@ My developer skills as a whole are pretty bad, I barely know how to use git
 <img align="left" alt="android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <br />
-
+<br />
+<img alight="left" alt="language-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=auscyberman&layout=compact&theme=nord"/>
+<br />
 ---
 
 
 <img align="left" alt="auscybermans's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=auscyberman&show_icons=true&hide_border=true&theme=radical" />
+
 
 [twitter]: https://twitter.com/phoebeebridgers
 [steam]: https://steamcommunity.com/id/AusCyber/
