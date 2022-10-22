@@ -1,5 +1,5 @@
 ### AusCyber
-Hi I'm a 16 year old high school student, I enjoy functional programming and a bit of type theory. 
+Hi I'm a 17 year old high school student, I enjoy functional programming and a bit of type theory. 
 
 <br />
 
