@@ -1,5 +1,7 @@
-### AusCyber
-Hi I'm an 18 year old uni student, I enjoy functional programming and a bit of type theory. 
+### auscyber :transgender_flag:
+Hi I'm a uni student, I enjoy functional programming and a bit of type theory. 
+
+
 
 <br />
 
